@@ -5,6 +5,8 @@ github.com/llfl/E-Puck2-Golang v0.0.0-20200702030408-4a75a69b3611 h1:+lVyID4PwEp
 github.com/llfl/E-Puck2-Golang v0.0.0-20200702030408-4a75a69b3611/go.mod h1:i9idbBrc6dLObOiAFXdeutmBs9kOKld1t+caykv/Rk0=
 github.com/llfl/E-Puck2-Golang v1.0.0 h1:JLk4aQksZ5swpuJUNM6dIwZuvhKCtOIjbE4UIU3gYlg=
 github.com/llfl/E-Puck2-Golang v1.0.0/go.mod h1:i9idbBrc6dLObOiAFXdeutmBs9kOKld1t+caykv/Rk0=
+github.com/llfl/E-Puck2-Golang v1.0.1 h1:POpTe3JVRu9mLH2d6lwh418WXzmsQGPgqt1asC2e73w=
+github.com/llfl/E-Puck2-Golang v1.0.1/go.mod h1:i9idbBrc6dLObOiAFXdeutmBs9kOKld1t+caykv/Rk0=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550/go.mod h1:yigFU9vqHzYiE8UmvKecakEJjdnWj3jj499lnFckfCI=
 golang.org/x/exp v0.0.0-20190306152737-a1d7652674e8/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
