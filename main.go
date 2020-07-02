@@ -31,7 +31,7 @@ func connHandler(c net.Conn) {
 	epuck := driver.NewEPuckHandle()
 	defer epuck.Device.Close()
 	defer epuck.Stop()
-
+	c.Write([]byte("10"))
 	buf := make([]byte, 1024)
 	for{
 		c.Write([]byte("epuck"))
